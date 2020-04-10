@@ -1,0 +1,4 @@
+#Licenses
+Copyrightable work (i.e. written material, 2D artwork and code) in this repository is licensed under a [Creative Commons 4.0 BY-SA License](https://creativecommons.org/licenses/by-sa/4.0/); you may use the materials on this site for any purpose (including commericial use) provided that you attribute the original source to us, and share any new work based on our material on the same license terms.
+
+'Hardware Designs' in this repository (the information to produce a physical artifact, including electronics designs and device software) are licensed under a [CERN-OHL-S license](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) using the same rationale; commercial use is fine provided you release the design pack for any derivatives under the same license. 
